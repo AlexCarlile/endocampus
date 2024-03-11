@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4cf5aa6.chunk.css",
+    "main.js": "/static/js/main.4f81f881.chunk.js",
+    "main.js.map": "/static/js/main.4f81f881.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed9d8f35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed9d8f35.js.map",
+    "static/js/2.d74dbfc9.chunk.js": "/static/js/2.d74dbfc9.chunk.js",
+    "static/js/2.d74dbfc9.chunk.js.map": "/static/js/2.d74dbfc9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b69428479d0819708f80184cdb4bcbf5.js": "/precache-manifest.b69428479d0819708f80184cdb4bcbf5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e4cf5aa6.chunk.css.map": "/static/css/main.e4cf5aa6.chunk.css.map",
+    "static/js/2.d74dbfc9.chunk.js.LICENSE.txt": "/static/js/2.d74dbfc9.chunk.js.LICENSE.txt",
+    "static/media/Clinic.jpg": "/static/media/Clinic.a096107e.jpg",
+    "static/media/Fadeev.png": "/static/media/Fadeev.a44dbfda.png",
+    "static/media/Fadeev.jpg": "/static/media/Fadeev.c2dbf7e4.jpg",
+    "static/media/main.css": "/static/media/doctor-performing-routine-medical-checkup 3.692fe913.jpg",
+    "static/media/logo_sech_white.svg": "/static/media/logo_sech_white.e648621e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed9d8f35.js",
+    "static/js/2.d74dbfc9.chunk.js",
+    "static/css/main.e4cf5aa6.chunk.css",
+    "static/js/main.4f81f881.chunk.js"
+  ]
+}
